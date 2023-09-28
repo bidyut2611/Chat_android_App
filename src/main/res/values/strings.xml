@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="already_have_account">Already have account</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_message">Enter Your message</string>
+    <string name="textview">TextView</string>
+
+    //string name="default_web_client_id" />
+</resources>
